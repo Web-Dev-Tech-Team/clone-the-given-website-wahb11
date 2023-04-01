@@ -1,0 +1,228 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 64px;
+}
+.list{
+    display: flex;
+    list-style: none;
+    margin-left: 360px;
+    margin-top: 63px;
+    position: absolute;
+    cursor: pointer;
+}
+.list li{
+    padding: 0 30px;
+}
+.gear{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 68px;
+}
+
+.box1{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background:rgba(164, 194, 230, 0.4);
+    margin-left: 250px;
+    margin-top: 50px;
+    transform: rotate(10deg);
+    border-radius: 10px;
+}
+.box2{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    background:rgba(164, 194, 230, 0.4);
+    margin-left: 390px;
+    margin-top: 200px;
+    transform: rotate(6deg);
+    border-radius: 40px;
+}
+.logo1{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 180px;
+    width:350px;
+    height: 320px;
+}
+.form0{
+    position: absolute;
+    margin-left: 170px;
+    margin-top: 200px;
+    width: 200px;
+    border-top: 0px none;
+    border-left: 0px none;
+    border-right: 0px none;
+    border-bottom: 1px solid #000;
+    line-height: 40px;
+}
+.form1{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 200px;
+    width: 200px;
+    border-top: 0px none;
+    border-left: 0px none;
+    border-right: 0px none;
+    border-bottom: 1px solid #000;
+    line-height: 40px;
+}
+.box3{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background:rgba(164, 194, 230, 0.4);
+    margin-left: 550px;
+    margin-top: 400px;
+    transform: rotate(10deg);
+    border-radius: 20px;
+}
+#w3{
+    position:absolute;
+    width: 490px;
+    margin-left: 160px;
+    margin-top: 290px;
+    background: transparent;
+    padding-left: 10px;
+    padding-top:10px;
+    border-top: 0px none;
+}
+.phone{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 350px;
+}
+.env{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 300px;
+}
+.button{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 480px;
+    width: 90px;
+    height: 30px;
+    border:1px solid #000;
+    background: transparent;
+    cursor: pointer;
+}
+.box4{
+    position: absolute;
+    width: 1090px;
+    height: 200px;
+    background: rgba(71, 83, 98, 0.42);
+    margin-left: 75px;
+    margin-top: 580px;
+}
+.one{
+    position: absolute;
+    margin-left: 200px;
+    font-size: 20px;
+    margin-top: 600px;
+}
+.list1{
+    position: absolute;
+    margin-left:168px;
+    margin-top: 640px;
+    list-style: none;
+    font-size: 14px;
+}
+.two{
+    position: absolute;
+    margin-left: 540px;
+    font-size: 20px;
+    margin-top: 599px;
+}
+.list2{
+    position: absolute;
+    margin-left:508px;
+    margin-top: 640px;
+    list-style: none;
+    font-size: 14px;
+}
+.three{
+    position: absolute;
+    margin-left: 930px;
+    font-size: 20px;
+    margin-top: 599px;
+}
+.list3{
+    position: absolute;
+    margin-left:898px;
+    margin-top: 640px;
+    list-style: none;
+    font-size: 14px;
+}
+.box5{
+    position: absolute;
+    width: 1090px;
+    height: 70px;
+    background: rgba(71, 83, 98, 0.42);
+    margin-left: 75px;
+    margin-top: 730px;
+    box-shadow: 0px 0px 5px #000;
+}
+.box6{
+    position: absolute;
+    width: 1090px;
+    height: 70px;
+    margin-left: 75px;
+    margin-top: 830px;
+}
+.insta{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 750px;
+}
+.link{
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 750px;
+}
+.envelope{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 750px;
+}
+.tele{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 750px;
+}
+.face{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 750px;
+}
+.alpha{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 748px;
+    font-size: 15px;
+    font-style: italic;
+}
+.learn{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 748px;
+    font-size: 13px;
+}
+.arrow{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left: 1100px;
+    margin-top: 500px;
+}
+
+
